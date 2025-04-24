@@ -11,3 +11,5 @@ However, I focused on the core iterator functionality and didnt implement all th
 I skipped implementing the ReverseSeasonIterator and ShuffleSeasonIterator because 
 they were not required to meet the basic requirements of the task.
 The focus was on demonstrating the core Iterator Pattern using BingeIterator to traverse through seasons and episodes.
+Screenshot of output:
+![image](https://github.com/user-attachments/assets/40a85f93-0849-4087-8f1a-4d05e7ae0b39)
