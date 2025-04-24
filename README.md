@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/82c29d07-224a-4eba-9086-cd7f5a961668)Part 1:
+Part 1:
 In Part 1 of the project, I implemented the iterator pattern to allow the traversal of episodes within a season of a TV series.
 The task required the creation of several iterators to navigate through episodes in different ways (normal, reverse, shuffle). 
 However, I focused on the core iterator functionality and didnt implement all the extra iterators as they were not necessary for the basic simulation as i thought.
@@ -29,6 +29,10 @@ Part 2:
 - In case of an emergency, the aircraft sending a MAYDAY message gets immediate priority and lands first.
 - The control tower manages the runway in a FIFO manner, but handles emergencies as the highest priority.
   ![image](https://github.com/user-attachments/assets/6199bebd-3536-445c-a976-ddd69c9e3eba)
+  uml: ![uml](https://github.com/user-attachments/assets/6cee52ce-325b-4cb9-be6f-b1b19cb8e644)
+
+
+  
 
 
 
